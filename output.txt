@@ -1,0 +1,106 @@
+Welcome To The Student Data Organizer!
+
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:1
+
+Enter Student Detail:
+
+Student Id:111
+Name:xyz
+Age:21
+Grade:A+
+Date Of Birth (YYYY-MM-DD):1222-12-12
+Subjects (comma-separeted):maths,english
+
+Student  Added Successfully
+
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:2
+----Display All Student Detils----
+Id : 111|Name : xyz|Age : 21|Grade : A+|DOB : 1222-12-12|Subjects : {'english', 'maths'}|       
+
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:3
+Enter Student Id You Want To Update:111
+select option:
+
+1.update name
+2.update age
+3.update grade
+4.update dob
+5.update subjects
+6.No Need To Update
+Enter Any Option:1
+Enter New Name:vishal
+
+Name Updated
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:2
+----Display All Student Detils----
+Id : 111|Name : vishal|Age : 21|Grade : A+|DOB : 1222-12-12|Subjects : {'english', 'maths'}|    
+
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:4
+Enter Student Id You Want To Delete:111
+Deleted Record Is:{'Id': 111, 'Name': 'vishal', 'Age': 21, 'Grade': 'A+', 'DOB': '1222-12-12', 'Subjects': {'english', 'maths'}}
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:2
+----Display All Student Detils----
+
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:5
+--Offered Subjects Is 'maths,physics,chemistry'---
+Select An Option:
+1.Add New Student
+2.Display All Student
+3.Update Student Information
+4.Delete Student Information
+5.Display Subject Offered
+6.Exit
+Enter Your Choice:6
+
+End Of Program
+
+Thank You GoodBye!
